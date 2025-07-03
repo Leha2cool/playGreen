@@ -1,4 +1,9 @@
-// ExtendedPalettes.js - Плагин с 50 палитрами и 20 тематическими схемами
+/**
+ * ExtendedPalettes.js - Плагин с 50 палитрами и 20 тематическими схемами 
+ * Версия: 1.5
+ * Дата: 2025-07-03
+ * GitHub: https://github.com/Leha2cool
+ */
 
 const ExtendedPalettes = {
     name: 'ExtendedPalettes',
