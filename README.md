@@ -16,6 +16,18 @@ PlayGreen - это инновационная библиотека для соз
 - Оптимизация производительности
 
 ---
+# Установка библеотеки
+## version 4.5
+```html
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.css"><script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.js"><script>
+```
+## version 5.1
+```html
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%205.1/playGreen.js"><script> //обновлённая версия
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.css"><script> //без изменения, остаёться прежним
+```
+---
 
 ### Полное руководство по использованию
 
