@@ -18,9 +18,9 @@ AnimeGreen - это революционный плагин, создающий 
 #### 1. Установка и инициализация
 ```html
 <!-- Подключаем зависимости -->
-<script src="playgreen.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.js"></script>
 <script src="anime.min.js"></script>
-<script src="animeGreen.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/Plugins/animeGreen/animeGreen.js"></script>
 
 <script>
 // Инициализируем PlayGreen с плагином
