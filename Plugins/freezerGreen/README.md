@@ -14,7 +14,13 @@ FreezerGreen.js - это продвинутый 3D-движок с глубок�
 - Адаптивные режимы рендеринга (качество/производительность)
 
 ---
-
+## Подключение библиотеки
+```html
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/Plugins/freezerGreen/freezerGreen.js"><script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.js"><script>
+<script src=""><script>
+```
+---
 ### Подробная инструкция по применению
 
 #### 1. Подключение плагина
