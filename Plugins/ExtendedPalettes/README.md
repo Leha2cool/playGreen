@@ -13,8 +13,8 @@ ExtendedPalettes - это мощный плагин-расширение для 
 ## Установка
 ```html
 <!-- Подключение после основной библиотеки PlayGreen -->
-<script src="playgreen.js"></script>
-<script src="extended-palettes.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/main%20libraries/version%204.5/playGreen.js"></script> //делалась на весию 4.5+
+<script src=https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/Plugins/ExtendedPalettes/ExtendedPalettes.js"></script>
 ```
 
 ## Инициализация
