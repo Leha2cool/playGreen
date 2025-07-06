@@ -16,7 +16,7 @@
 #### 1. Подключение плагина
 ```html
 <!-- После подключения PlayGreen -->
-<script src="classicGreen.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Leha2cool/playGreen@main/Plugins/ClassicGreen/classicGreen.js"></script>
 ```
 
 #### 2. Инициализация
